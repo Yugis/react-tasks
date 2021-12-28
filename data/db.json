@@ -1,0 +1,9 @@
+{
+  "tasks": [
+    {
+      "description": "New task",
+      "completed": true,
+      "id": 1
+    }
+  ]
+}
